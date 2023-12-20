@@ -1,5 +1,6 @@
-class IfElsedemo{
-  public static void main(String args[]){
+class IfElseDemo{
+  public static void main(String args[])
+  {
   int age =20;
   if(age >=18) 
     {
@@ -9,5 +10,5 @@ class IfElsedemo{
      {
    System.out.println("not eligible for vote");
      }
-}
+  }
 }
