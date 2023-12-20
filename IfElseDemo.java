@@ -28,7 +28,7 @@ class Sample{
 
 
 (Do while loop)
-class Sample{
+class Sample1{
   public static void main(String args[])
   {
   int i =5;
